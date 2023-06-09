@@ -183,7 +183,7 @@ const funcionSinParametros = () =>{
 
 const calcularVelocidadFlecha =(distancia, tiempo) =>{
     console.log("La Distancia es: " + distancia);
-    console.log("La Distancia es: " + tiempo);
+    console.log("El tiempo es: " + tiempo);
     return "La velocidad es: " + distancia/tiempo + " m/s por hora."
 
 }
